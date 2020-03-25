@@ -1,5 +1,5 @@
 # Site settings
-title: William's Blog
+title: 记·念
 SEOTitle: 小札 | 记录活着
 header-img: img/post-bg-desk.jpg
 email: williamstark9527@gmail.com
@@ -18,8 +18,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
+weibo_username:     俞大头_WilliamStark
+zhihu_username:     俞靖豪
 github_username:    williamstark9527
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
