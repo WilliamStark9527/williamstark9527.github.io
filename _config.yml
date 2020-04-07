@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: williamstark9527@gmail.com
 description: "如果我说生命不止前进倒退还有上下"
 keyword: "W.Stark, WilliamStark, yujinghao007"
-url: "http://williamstark9527.github.io"          # your host, for absolute URL
+url: "https://williamstark9527.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/williamstark9527/williamstark9527.github.io.git" # you code repository
 
@@ -78,7 +78,7 @@ ba_track_id: 6636c264f48aff1e78b67e90b6e95217
 
 # Google Analytics
 ga_track_id: 'UA-161206542-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.yujinghao007.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: blog.yujinghao007.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
