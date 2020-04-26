@@ -21,7 +21,7 @@ tags:								# 标签
 1. 先到[PicGo](https://github.com/Molunerfinn/PicGo)的GitHub页面里下载最新的release
 2. 在GitHub的仓库里建好PicGo的repo
 3. 在GitHub的[个人页面](https://github.com/settings/tokens)里创建token
-4. 配置PicGo ![配置PicGo](https://raw.githubusercontent.com/WilliamStark9527/PicGo/master/img/批注 2020-04-26 213336.jpg)
+4. 配置PicGo ![配置PicGo](https://raw.githubusercontent.com/WilliamStark9527/PicGo/master/img/2020-04-26_213336.jpg)
 5. give it a try
 # 总结
 &emsp;&emsp;其实也没啥难的。
