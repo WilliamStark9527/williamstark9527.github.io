@@ -27,3 +27,5 @@ tags:								# 标签
 &emsp;&emsp;其实也没啥难的。
 
 &emsp;&emsp;GitHub牛啤。
+# 后记
+&emsp;&emsp;由于markdown的语法限制，图片文件名里不要出现空格等保留字符。
